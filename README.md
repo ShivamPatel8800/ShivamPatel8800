@@ -365,9 +365,6 @@ echo "[✓] System upgrade in progress..."
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=100&section=footer" />
-
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  $ echo "Breaking things ethically to build them safer"      ║
@@ -382,3 +379,6 @@ echo "[✓] System upgrade in progress..."
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShivamPatel8800&style=flat-square&color=00ff41&label=PROFILE+VISITS)
 
 </div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=100&section=footer" />
