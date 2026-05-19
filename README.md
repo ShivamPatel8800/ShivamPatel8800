@@ -365,9 +365,6 @@ echo "[✓] System upgrade in progress..."
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=100&section=footer" />
-
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  $ echo "Breaking things ethically to build them safer"      ║
