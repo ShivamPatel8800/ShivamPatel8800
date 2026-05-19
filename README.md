@@ -103,7 +103,7 @@ I actively work with Linux-based environments, especially **Kali Linux**, and en
 # 📈 GitHub Stats
 
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamPate8800&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamPatel8800&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPatel8800&layout=compact&theme=tokyonight)
 
@@ -125,7 +125,7 @@ I actively work with Linux-based environments, especially **Kali Linux**, and en
 ```markdown
 - LinkedIn: https://linkedin.com/in/shivam-patel28/
 - GitHub: https://github.com/ShivamPatel8800
-- Email: shivampatel9051.com
+- Email: shivampatel9051@gmail.com
 ```
 
 ---
