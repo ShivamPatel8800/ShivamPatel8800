@@ -103,9 +103,9 @@ I actively work with Linux-based environments, especially **Kali Linux**, and en
 # 📈 GitHub Stats
 
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamPatel8800&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShivamPatel8800&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPatel8800&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivamPatel8800&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShivamPatel8800&theme=tokyonight)
 ```
