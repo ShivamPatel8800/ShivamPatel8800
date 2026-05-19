@@ -59,7 +59,7 @@ Mission  : Hack. Learn. Secure. Repeat.
 
 ### 🎓 M.Sc. Cyber Security
 **National Forensic Science University**
-📍 Gandhinagar | 🗓️ Present | 📊 CGPA: 7.8
+📍 Gandhinagar | 🗓️ Present | 📊 CGPA: 8.18
 
 > Advanced studies in **Network Security**, **Digital Forensics**, **Intrusion Detection**, **Cryptography**, and **Cloud Security**. Deep focus on threat analysis and incident response methodologies.
 
