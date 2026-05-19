@@ -29,7 +29,9 @@
 ---
 
 <!-- Terminal whoami -->
-<img align="right" width="340" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<div align="right">
+<img width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</div>
 
 ## `whoami`
 
@@ -364,7 +366,7 @@ echo "[✓] System upgrade in progress..."
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let%27s+Connect+%26+Collaborate&fontSize=20&fontColor=00ff41&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=100&section=footer" />
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
