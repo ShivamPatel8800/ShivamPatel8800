@@ -1,45 +1,55 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ███╗    ██████╗  █████╗ ████████╗███████╗██╗     
-██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗ ████║    ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║     
-███████╗███████║██║██║   ██║███████║██╔████╔██║    ██████╔╝███████║   ██║   █████╗  ██║     
-╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╔╝██║    ██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║     
-███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚═╝ ██║    ██║     ██║  ██║   ██║   ███████╗███████╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
-```
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=200&section=header&text=SHIVAM%20PATEL&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Penetration%20Tester%20%7C%20AI%20Security&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher+%F0%9F%94%90;Penetration+Tester+%F0%9F%A7%AA;AI+%26+LLM+Security+Enthusiast+%F0%9F%A4%96;Smart+Contract+Auditor+%E2%9B%93;Digital+Forensics+Investigator+%F0%9F%94%8D;Breaking+Things+Ethically+Since+Day+One" alt="Typing SVG" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%5B%2B%5D+Cybersecurity+Researcher+%F0%9F%94%90;%5B%2B%5D+Penetration+Tester+%F0%9F%A7%AA;%5B%2B%5D+AI+%26+LLM+Security+Enthusiast+%F0%9F%A4%96;%5B%2B%5D+Smart+Contract+Auditor+%E2%9B%93;%5B%2B%5D+Digital+Forensics+Investigator+%F0%9F%94%8D;%5B%2B%5D+Breaking+Things+Ethically+Since+Day+One" />
 
 <br/>
 
+<!-- Animated Snake Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamPatel8800/ShivamPatel8800/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamPatel8800/ShivamPatel8800/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShivamPatel8800/ShivamPatel8800/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+<!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-patel28/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamPatel8800)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampatel9051@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ShivamPatel8800&style=for-the-badge&color=00ff41&label=RECON+COUNT)](https://github.com/ShivamPatel8800)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- Terminal whoami -->
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## `whoami`
 
 ```bash
-$ cat /etc/shivam/profile.txt
-```
-
-```
 ┌─[shivam@kali]─[~]
-└──╼ $ id
-uid=1337(shivam) gid=1337(security) groups=pentester,forensics,ai-red-team
+└──╼ $ cat /etc/passwd | grep shivam
 
-Name     : Shivam Patel
-Role     : Cybersecurity Researcher & Penetration Tester
-Location : New Delhi, India 🇮🇳
-Status   : M.Sc. Cyber Security @ NFSU | Open to Opportunities
-Mission  : Hack. Learn. Secure. Repeat.
+shivam:x:1337:1337:Cybersec Researcher:/home/shivam:/bin/zsh
+```
+
+```
+╔══════════════════════════════════════════════════════╗
+║  Name     : Shivam Patel                             ║
+║  Role     : Cybersecurity Researcher & Pen Tester    ║
+║  Location : New Delhi, India 🇮🇳                      ║
+║  Status   : M.Sc. Cyber Security @ NFSU              ║
+║  UID      : 1337 (elite)                             ║
+║  Groups   : pentester,forensics,ai-red-team          ║
+║  Mission  : Hack. Learn. Secure. Repeat.             ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 > *"Security is not a product, but a process."*
@@ -48,29 +58,30 @@ Mission  : Hack. Learn. Secure. Repeat.
 
 ## `cat /education`
 
-```
-┌─[shivam@kali]─[~/education]
-└──╼ $ ls -la
-```
-
 <table>
 <tr>
 <td width="50%">
 
 ### 🎓 M.Sc. Cyber Security
 **National Forensic Science University**
-📍 Gandhinagar | 🗓️ Present | 📊 CGPA: 8.18
 
-> Advanced studies in **Network Security**, **Digital Forensics**, **Intrusion Detection**, **Cryptography**, and **Cloud Security**. Deep focus on threat analysis and incident response methodologies.
+![NFSU](https://img.shields.io/badge/NFSU-Gandhinagar-00ff41?style=flat-square&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.18-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square)
+
+> Network Security · Digital Forensics · Intrusion Detection · Cryptography · Cloud Security · Threat Analysis · Incident Response
 
 </td>
 <td width="50%">
 
 ### 🎓 BCA — Computer Applications
 **Amity University**
-📍 Noida | 🗓️ June 2024 | 📊 CGPA: 7.4
 
-> Foundation in **Python**, **C/C++**, **Computer Networks**, **Operating Systems**, and **System Architecture** — the bedrock for advanced security research.
+![Amity](https://img.shields.io/badge/Amity-Noida-orange?style=flat-square&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-7.4-yellow?style=flat-square)
+![Graduated](https://img.shields.io/badge/Graduated-June%202024-purple?style=flat-square)
+
+> Python · C/C++ · Computer Networks · Operating Systems · System Architecture
 
 </td>
 </tr>
@@ -78,27 +89,35 @@ Mission  : Hack. Learn. Secure. Repeat.
 
 ---
 
-## `nmap --scan-skills`
+## `nmap --scan-skills -sV`
 
 ```
-Starting Skill Scan...
-[*] Discovering capabilities on target: Shivam Patel
+Starting Nmap 7.94 ( https://nmap.org )
+[*] Scanning: Shivam Patel
+[*] Host is up (0.0001s latency).
+[+] Ports discovered: ALL OPEN
 ```
 
 ### 🛡️ Core Security Arsenal
 
-| Domain | Tools & Techniques |
-|---|---|
-| **Penetration Testing** | Metasploit · Burp Suite · Nmap · SQLMap · BeEF Framework |
-| **Network Security** | Wireshark · Aircrack-NG · IDS/IPS · TCP/IP · MITRE ATT&CK |
-| **Digital Forensics** | Autopsy · FTK Imager · Volatility · YARA · Cellebrite · Magnet AXIOM |
-| **Vulnerability Assessment** | Nessus · OpenVAS · LinPEAS · WinPEAS |
-| **SIEM & Monitoring** | Wazuh · Log-360 · SIEM · Log Parsing |
-| **Blockchain Security** | Mythril · Remix IDE · Brownie · Smart LLM |
-| **AI/ML Security** | Prompt Injection · LLM Red Teaming · RAG Security |
-| **Automation** | n8n · Python · Bash |
+<div align="center">
+
+| Domain | Tools & Techniques | Proficiency |
+|---|---|---|
+| **Penetration Testing** | Metasploit · Burp Suite · Nmap · SQLMap · BeEF | ![](https://img.shields.io/badge/-Expert-00ff41?style=flat-square) |
+| **Network Security** | Wireshark · Aircrack-NG · IDS/IPS · MITRE ATT&CK | ![](https://img.shields.io/badge/-Advanced-0077ff?style=flat-square) |
+| **Digital Forensics** | Autopsy · FTK Imager · Volatility · YARA · Cellebrite | ![](https://img.shields.io/badge/-Advanced-0077ff?style=flat-square) |
+| **Vulnerability Assessment** | Nessus · OpenVAS · LinPEAS · WinPEAS | ![](https://img.shields.io/badge/-Advanced-0077ff?style=flat-square) |
+| **SIEM & Monitoring** | Wazuh · Log-360 · Log Parsing · SOC | ![](https://img.shields.io/badge/-Intermediate-ffaa00?style=flat-square) |
+| **Blockchain Security** | Mythril · Remix IDE · Brownie · Smart LLM | ![](https://img.shields.io/badge/-Advanced-0077ff?style=flat-square) |
+| **AI/ML Security** | Prompt Injection · LLM Red Teaming · RAG Security | ![](https://img.shields.io/badge/-Expert-00ff41?style=flat-square) |
+| **Automation** | n8n · Python · Bash · Docker | ![](https://img.shields.io/badge/-Advanced-0077ff?style=flat-square) |
+
+</div>
 
 ### 💻 Languages & Frameworks
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -107,18 +126,24 @@ Starting Skill Scan...
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🔧 Security Tools & Platforms
+</div>
+
+### 🔧 Security Platforms
+
+<div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-0277BD?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-0277BD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
@@ -129,9 +154,15 @@ Starting Skill Scan...
 
 <br/>
 
-- 🔎 Performed forensic analysis of digital evidence including data recovery, log examination, and artifact extraction supporting live cybercrime investigations
+```
+[+] Role     : Digital Forensics Trainee
+[+] Org      : CFSL Kolkata (Central Forensic Science Laboratory)
+[+] Duration : June 2025
+```
+
+- 🔎 Performed forensic analysis of digital evidence — data recovery, log examination, artifact extraction in live cybercrime investigations
 - 💾 Conducted device imaging and preservation with full chain-of-custody compliance
-- 📋 Gained hands-on experience with forensic reporting methodologies and SOPs used in government labs
+- 📋 Hands-on experience with forensic reporting methodologies and government lab SOPs
 
 </details>
 
@@ -140,8 +171,14 @@ Starting Skill Scan...
 
 <br/>
 
+```
+[+] Role     : Cyber Security Intern
+[+] Org      : Acmegrade, Delhi
+[+] Duration : May – July 2023
+```
+
 - ⚔️ Performed VAPT using **Nmap**, **Burp Suite**, and **Metasploit** to identify and exploit security flaws in simulated environments
-- 📊 Monitored SOC dashboards and SIEM alerts, analyzing logs to detect real-time intrusion attempts
+- 📊 Monitored SOC dashboards and SIEM alerts, analyzing logs for real-time intrusion attempts
 - 🔥 Configured firewalls and IDS/IPS systems to harden perimeter security
 
 </details>
@@ -151,31 +188,38 @@ Starting Skill Scan...
 
 <br/>
 
+```
+[+] Role     : Machine Learning Intern
+[+] Org      : Mentorkart, Noida
+[+] Duration : June 2023
+```
+
 - 🧹 Preprocessed structured/unstructured datasets using **Pandas** and **NumPy**
-- 🎯 Applied feature engineering, fine-tuning, and hyperparameter optimization to improve model accuracy
+- 🎯 Applied feature engineering, fine-tuning, and hyperparameter optimization for model accuracy
 - 📝 Documented workflows and presented findings to cross-functional teams
 
 </details>
 
 ---
 
-## `ls -la /projects --exploit-grade`
+## `ls -la ~/projects --sort=exploit-grade`
 
-```
+```bash
 ┌─[shivam@kali]─[~/projects]
-└──╼ $ ./deploy --all
-[+] Loading exploit-grade projects...
+└──╼ $ find . -name "*.exploit" -type f | sort -r
+[+] 4 exploit-grade projects loaded.
 ```
 
 <table>
 <tr>
 <td width="50%">
 
-### ⛓️ [Blockchain-based Confidential Invoice Financing](https://github.com/ShivamPatel8800/confidential-invoice-financing)
+### ⛓️ [Blockchain Confidential Invoice Financing](https://github.com/ShivamPatel8800/confidential-invoice-financing)
 
-> **zk-SNARKs (Groth16) + Circom + Hyperledger Fabric**
+![zk-SNARKs](https://img.shields.io/badge/zk--SNARKs-Groth16-00ff41?style=flat-square)
+![Circom](https://img.shields.io/badge/Circom-Hyperledger-blue?style=flat-square)
 
-Architected a Supply Chain Finance protocol using **zero-knowledge proofs** to verify credit limits without exposing invoice amounts or buyer identities on-chain. Bridged off-chain cryptographic verification with on-chain execution via a Node.js oracle.
+> Supply Chain Finance protocol using **zero-knowledge proofs** to verify credit limits without exposing invoice amounts or buyer identities on-chain. Bridged off-chain cryptographic verification with on-chain execution via a Node.js oracle.
 
 `Blockchain` `zkSNARKs` `Privacy` `Go` `Node.js`
 
@@ -184,9 +228,10 @@ Architected a Supply Chain Finance protocol using **zero-knowledge proofs** to v
 
 ### 🌿 [Eco-Friendly Blockchain Consensus](https://github.com/ShivamPatel8800/eco-friendly-blockchain)
 
-> **Ethereum · Smart Contracts · Proof of Environmentalism**
+![Ethereum](https://img.shields.io/badge/Ethereum-Smart_Contracts-3C3C3D?style=flat-square&logo=ethereum)
+![Solidity](https://img.shields.io/badge/Solidity-DeFi-363636?style=flat-square&logo=solidity)
 
-Deployed a novel blockchain system where eco-friendly activities generate verifiable transactions. Smart contracts automatically distribute token rewards, creating a transparent and tamper-proof green incentive layer.
+> Novel blockchain system where eco-friendly activities generate verifiable transactions. Smart contracts auto-distribute token rewards with a transparent tamper-proof green incentive layer.
 
 `Ethereum` `Solidity` `Smart Contracts` `DeFi`
 
@@ -195,11 +240,12 @@ Deployed a novel blockchain system where eco-friendly activities generate verifi
 <tr>
 <td width="50%">
 
-### 🔐 [Linux Endpoint Security Hardening Framework](https://github.com/ShivamPatel8800/endpoint-security-framework)
+### 🔐 [Linux Endpoint Security Hardening](https://github.com/ShivamPatel8800/endpoint-security-framework)
 
-> **Python + Bash · SHA-256 Integrity · Behavioral Anomaly Detection**
+![Python](https://img.shields.io/badge/Python-Bash-3776AB?style=flat-square&logo=python)
+![Blue Team](https://img.shields.io/badge/Blue_Team-SHA256-0077ff?style=flat-square)
 
-CLI framework for proactive hardening of Debian-based servers. Features file integrity monitoring, behavioral anomaly detection, and an automated threat remediation engine that quarantines files, blocks IPs, and terminates compromised processes.
+> CLI framework for proactive hardening of Debian-based servers. File integrity monitoring, behavioral anomaly detection, automated threat remediation — quarantines files, blocks IPs, terminates compromised processes.
 
 `Python` `Bash` `Linux` `Blue Team` `Hardening`
 
@@ -208,9 +254,10 @@ CLI framework for proactive hardening of Debian-based servers. Features file int
 
 ### 🔍 [Secure Microservices PII Detection Pipeline](https://github.com/ShivamPatel8800/db-privacy-monitor)
 
-> **RabbitMQ · SpaCy · Presidio · Docker · DLP**
+![DLP](https://img.shields.io/badge/DLP-NLP-red?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Docker-FF6600?style=flat-square&logo=rabbitmq)
 
-Zero-latency Data Loss Prevention architecture using a raw TCP proxy and async Producer-Consumer queue. Hybrid ML approach combining NLP (SpaCy/Microsoft Presidio) with deterministic regex in a fail-secure, over-encryption-prioritized design.
+> Zero-latency DLP architecture using raw TCP proxy and async Producer-Consumer queue. Hybrid ML combining NLP (SpaCy/Presidio) with deterministic regex in a fail-secure, over-encryption-prioritized design.
 
 `DLP` `NLP` `Docker` `RabbitMQ` `Security`
 
@@ -222,34 +269,30 @@ Zero-latency Data Loss Prevention architecture using a raw TCP proxy and async P
 
 ## `cat /research/publications`
 
+```bash
+┌─[shivam@kali]─[~/research]
+└──╼ $ grep -r "published" ./papers/ | wc -l
+5 publications found
 ```
-[+] Parsing academic contributions...
-```
 
-📄 **"Deploying a Cryptocurrency Technique Using Hashing and Web Integration"**
-→ *ICRIITO-2024, Amity University*
-
-📄 **"Evaluating Modern Ransomware and Effective Data Backup and Recovery Solutions"**
-→ *IJSART, Vol. 10, Issue 9, Sept 2024 | ISSN: 2395-1052*
-
-📄 **"The Digital Battlefield: Navigating the New Age of Cyber Warfare"**
-→ *IJRPR, Oct 2024 | ISSN: 2582-7421*
-
-📄 **"Introduction to Emotion Expression and AI"** *(Book Chapter)*
-→ *"Emotion and Facial Recognition in AI: Sustainable Multidisciplinary Perspectives" | DOI: 10.1007/978-3-032-14778-3*
-
-📄 **"Strengthening Online Security through a Community-Driven Cyber Threat Database"**
-→ *GAP Indian Journal of Forensics and Behavioral Sciences | ISSN: 2582-8177*
+| # | Title | Venue | Year |
+|---|---|---|---|
+| 📄 | Deploying a Cryptocurrency Technique Using Hashing and Web Integration | ICRIITO-2024, Amity University | 2024 |
+| 📄 | Evaluating Modern Ransomware and Effective Data Backup and Recovery Solutions | IJSART, Vol. 10, Issue 9 · ISSN: 2395-1052 | 2024 |
+| 📄 | The Digital Battlefield: Navigating the New Age of Cyber Warfare | IJRPR, Oct 2024 · ISSN: 2582-7421 | 2024 |
+| 📖 | Introduction to Emotion Expression and AI *(Book Chapter)* | DOI: 10.1007/978-3-032-14778-3 | 2024 |
+| 📄 | Strengthening Online Security through a Community-Driven Cyber Threat Database | GAP Indian Journal of Forensics · ISSN: 2582-8177 | 2024 |
 
 ---
 
-## `./interests --enum`
+## `./interests --enum --verbose`
+
+<div align="center">
 
 ```
 [*] Enumerating active research vectors...
+[+] 15 interests discovered across 3 categories
 ```
-
-<div align="center">
 
 | 🔴 Offensive | 🔵 Defensive | 🟡 Research |
 |:---:|:---:|:---:|
@@ -263,35 +306,56 @@ Zero-latency Data Loss Prevention architecture using a raw TCP proxy and async P
 
 ---
 
-## `./currently_learning.sh`
+## `./currently_learning.sh --progress`
 
 ```bash
 #!/bin/bash
-SKILLS=(
-  "Advanced Web Exploitation Techniques"
-  "AI Agent Security & Autonomous Threat Modeling"
-  "Offensive LLM Testing Methodologies"
-  "Zero Knowledge Proof Security"
-  "Secure Microservices Architecture"
-  "Blockchain Exploit Development"
+declare -A SKILLS=(
+  ["Advanced Web Exploitation"]="████████░░ 80%"
+  ["AI Agent Security"]="███████░░░ 70%"
+  ["Offensive LLM Testing"]="████████░░ 80%"
+  ["Zero Knowledge Proofs"]="██████░░░░ 60%"
+  ["Secure Microservices"]="████████░░ 80%"
+  ["Blockchain Exploit Dev"]="███████░░░ 70%"
 )
-for skill in "${SKILLS[@]}"; do
-  echo "[*] Downloading: $skill..."
+
+for skill in "${!SKILLS[@]}"; do
+  echo "[*] $skill ... ${SKILLS[$skill]}"
+  sleep 0.1
 done
-echo "[+] System upgrade complete."
+
+echo ""
+echo "[✓] System upgrade in progress..."
 ```
 
 ---
 
-## `./stats --github`
+## `./stats --github --live`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShivamPatel8800&show_icons=true&theme=matrix&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivamPatel8800&show_icons=true&theme=matrix&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShivamPatel8800&theme=matrix&border=00ff41&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff0000&currStreakLabel=00ff41)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivamPatel8800&layout=compact&theme=matrix&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8" />
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivamPatel8800&layout=compact&theme=matrix&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ShivamPatel8800&theme=matrix&border=00ff41&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamPatel8800&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00ff41" />
+
+</div>
+
+---
+
+## `./achievements --trophies`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShivamPatel8800&theme=matrix&column=7&margin-w=10&margin-h=10&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -299,15 +363,20 @@ echo "[+] System upgrade complete."
 
 <div align="center">
 
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:006600,100:00ff41&height=120&section=footer&text=Let%27s%20Connect%20%26%20Collaborate&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+
 ```
-╔══════════════════════════════════════════════════════════╗
-║  $ echo "Breaking things ethically to build them safer"  ║
-║  > I enjoy breaking things ethically to understand       ║
-║    how to secure them better.                            ║
-║                                              [✓] Exiting ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  $ echo "Breaking things ethically to build them safer"      ║
+║  > "Security is not a destination, it's a journey."          ║
+║  > Open to: Bug Bounty | Research Collabs | Security Roles   ║
+║                                                  [✓] Exiting ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 **If you find my work useful, drop a ⭐ — it's the best `sudo` command you can give!**
+
+![Visitor Count](https://profile-counter.glitch.me/ShivamPatel8800/count.svg)
 
 </div>
