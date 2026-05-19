@@ -10,9 +10,9 @@
 
 <!-- Animated Snake Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamPatel8800/ShivamPatel8800/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamPatel8800/ShivamPatel8800/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShivamPatel8800/ShivamPatel8800/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <br/>
@@ -377,6 +377,6 @@ echo "[✓] System upgrade in progress..."
 
 **If you find my work useful, drop a ⭐ — it's the best `sudo` command you can give!**
 
-![Visitor Count](https://profile-counter.glitch.me/ShivamPatel8800/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=ShivamPatel8800&style=flat-square&color=00ff41&label=PROFILE+VISITS)
 
 </div>
